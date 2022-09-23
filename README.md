@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my Certified Tech Developer Degree 
+- 🔭 I’m currently working on my **Certified Tech Developer Degree** 
 - 🌱 I’m currently learning Java | OOP | JavaScript
 - 👯 I’m looking to collaborate on FrontEnd & Java projects 
 - 🤔 I’m looking for help with my portfolio 
