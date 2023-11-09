@@ -1,6 +1,6 @@
 # Hello, my name is Sofia 👋😄
 
-👩‍💻 I'm a Freelance Fullstack developer 
+👩‍💻 I'm a Fullstack developer 
 
 🛠️ I’m currently working on projects using JavaScript | Java | OOP | CSS | HTML | React
 
